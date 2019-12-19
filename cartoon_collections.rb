@@ -20,7 +20,7 @@ def long_planeteer_calls(array)# code an argument here
     end
   end
   
-    if 
+    if word.length <= 4
       false
     else
       true
